@@ -1,6 +1,6 @@
 ## 💫 Hii, I am Nikunj Bariya
 
-👨‍💻 **Mobile Application Developer Intern**
+👨‍💻 **Mobile Application Developer Intern** :-
 I am a passionate mobile application developer intern focused on building modern, user-friendly, and scalable mobile applications.
 
 📱 I enjoy converting ideas into real, interactive apps with a strong emphasis on **clean UI, smooth performance, and structured app architecture**. I have hands-on knowledge of **FlutterFlow** and experience in building app screens, workflows, and logic.
